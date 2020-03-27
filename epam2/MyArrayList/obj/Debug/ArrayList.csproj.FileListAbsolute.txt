@@ -1,0 +1,6 @@
+C:\Users\Katya\source\repos\epam2\MyArrayList\bin\Debug\MyArrayList.dll
+C:\Users\Katya\source\repos\epam2\MyArrayList\bin\Debug\MyArrayList.pdb
+C:\Users\Katya\source\repos\epam2\MyArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam2\MyArrayList\obj\Debug\MyArrayList.dll
+C:\Users\Katya\source\repos\epam2\MyArrayList\obj\Debug\MyArrayList.pdb
+C:\Users\Katya\source\repos\epam2\MyArrayList\obj\Debug\ArrayList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Katya\source\repos\epam1\MyMatrix\bin\Debug\MyMatrix.dll
+C:\Users\Katya\source\repos\epam1\MyMatrix\bin\Debug\MyMatrix.pdb
+C:\Users\Katya\source\repos\epam1\MyMatrix\obj\Debug\MyMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Katya\source\repos\epam1\MyMatrix\obj\Debug\MyMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam1\MyMatrix\obj\Debug\MyMatrix.dll
+C:\Users\Katya\source\repos\epam1\MyMatrix\obj\Debug\MyMatrix.pdb

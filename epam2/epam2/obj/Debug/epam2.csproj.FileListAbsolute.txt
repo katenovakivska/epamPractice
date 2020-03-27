@@ -1,0 +1,11 @@
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\epam2.exe.config
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\epam2.exe
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\epam2.pdb
+C:\Users\Katya\source\repos\epam2\epam2\obj\Debug\epam2.csprojResolveAssemblyReference.cache
+C:\Users\Katya\source\repos\epam2\epam2\obj\Debug\epam2.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam2\epam2\obj\Debug\epam2.exe
+C:\Users\Katya\source\repos\epam2\epam2\obj\Debug\epam2.pdb
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\MyArrayList.dll
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\MyArrayList.pdb
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\Tree.dll
+C:\Users\Katya\source\repos\epam2\epam2\bin\Debug\Tree.pdb

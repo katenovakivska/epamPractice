@@ -1,0 +1,6 @@
+C:\Users\Katya\source\repos\epam1\MyPolynomial\bin\Debug\MyPolynomial.dll
+C:\Users\Katya\source\repos\epam1\MyPolynomial\bin\Debug\MyPolynomial.pdb
+C:\Users\Katya\source\repos\epam1\MyPolynomial\obj\Debug\MyPolynomial.csprojResolveAssemblyReference.cache
+C:\Users\Katya\source\repos\epam1\MyPolynomial\obj\Debug\MyPolynomial.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam1\MyPolynomial\obj\Debug\MyPolynomial.dll
+C:\Users\Katya\source\repos\epam1\MyPolynomial\obj\Debug\MyPolynomial.pdb

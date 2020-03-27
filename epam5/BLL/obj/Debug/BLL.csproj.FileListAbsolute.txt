@@ -1,0 +1,14 @@
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\BLL.dll
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\BLL.pdb
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\DAL.dll
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\DAL.pdb
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Katya\source\repos\epam5\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam5\BLL\obj\Debug\BLL.dll
+C:\Users\Katya\source\repos\epam5\BLL\obj\Debug\BLL.pdb
+C:\Users\Katya\source\repos\epam5\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\epam5\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\Ninject.dll
+C:\Users\Katya\source\repos\epam5\BLL\bin\Debug\Ninject.xml

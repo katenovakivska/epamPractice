@@ -1,0 +1,7 @@
+C:\Users\Katya\source\repos\epam3\epam3\bin\Debug\epam3.exe.config
+C:\Users\Katya\source\repos\epam3\epam3\bin\Debug\epam3.exe
+C:\Users\Katya\source\repos\epam3\epam3\bin\Debug\epam3.pdb
+C:\Users\Katya\source\repos\epam3\epam3\obj\Debug\epam3.csprojResolveAssemblyReference.cache
+C:\Users\Katya\source\repos\epam3\epam3\obj\Debug\epam3.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam3\epam3\obj\Debug\epam3.exe
+C:\Users\Katya\source\repos\epam3\epam3\obj\Debug\epam3.pdb

@@ -1,0 +1,11 @@
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\epam1.exe.config
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\epam1.exe
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\epam1.pdb
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\MyMatrix.dll
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\MyMatrix.pdb
+C:\Users\Katya\source\repos\epam1\epam1\obj\Debug\epam1.csprojResolveAssemblyReference.cache
+C:\Users\Katya\source\repos\epam1\epam1\obj\Debug\epam1.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam1\epam1\obj\Debug\epam1.exe
+C:\Users\Katya\source\repos\epam1\epam1\obj\Debug\epam1.pdb
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\MyPolynomial.dll
+C:\Users\Katya\source\repos\epam1\epam1\bin\Debug\MyPolynomial.pdb

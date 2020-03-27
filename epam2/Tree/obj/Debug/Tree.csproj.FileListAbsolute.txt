@@ -1,0 +1,6 @@
+C:\Users\Katya\source\repos\epam2\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam2\Tree\bin\Debug\Tree.dll
+C:\Users\Katya\source\repos\epam2\Tree\bin\Debug\Tree.pdb
+C:\Users\Katya\source\repos\epam2\Tree\obj\Debug\Tree.dll
+C:\Users\Katya\source\repos\epam2\Tree\obj\Debug\Tree.pdb
+C:\Users\Katya\source\repos\epam2\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache

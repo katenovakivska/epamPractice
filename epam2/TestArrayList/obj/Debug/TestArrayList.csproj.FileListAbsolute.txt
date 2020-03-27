@@ -1,0 +1,17 @@
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\TestArrayList.exe.config
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\TestArrayList.exe
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\TestArrayList.pdb
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\MyArrayList.dll
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.abstractions.dll
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.assert.dll
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.core.dll
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\MyArrayList.pdb
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.abstractions.xml
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.assert.xml
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.core.xml
+C:\Users\Katya\source\repos\epam2\TestArrayList\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Katya\source\repos\epam2\TestArrayList\obj\Debug\TestArrayList.csprojResolveAssemblyReference.cache
+C:\Users\Katya\source\repos\epam2\TestArrayList\obj\Debug\TestArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\epam2\TestArrayList\obj\Debug\TestArrayList.exe
+C:\Users\Katya\source\repos\epam2\TestArrayList\obj\Debug\TestArrayList.pdb
